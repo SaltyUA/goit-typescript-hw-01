@@ -15,7 +15,7 @@
     "strictNullChecks": true,                         /* When type checking, take into account 'null' and 'undefined'. */
     "skipLibCheck": true,
     "rootDir": "./src",
-    "outDir": "./dist",                           /* Skip type checking all .d.ts files. */
+    "outDir": "./dist",                           
     "sourceMap": true
 },
   "include": ["**/*.ts"]

@@ -1,5 +1,5 @@
 {
-  "name": "ts_courses",
+  "name": "goit-typescript-hw-01",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,12 @@
     "start": "web-dev-server --node-resolve --open --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "SaltyUA",
   "license": "ISC",
   "devDependencies": {
     "@web/dev-server": "^0.3.6"
+  },
+  "dependencies": {
+    "typescript": "^5.2.2"
   }
 }
